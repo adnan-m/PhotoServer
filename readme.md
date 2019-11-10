@@ -13,17 +13,17 @@ Create a Web API that when called
 
 Start RunPathPhotoServer via IISExpress
 
-There are two different endoings
+There are two different end points
 
-### Returns combie Photo and Alubm data
+### Returns combine Photo and Alubm data
 
 - [https://localhost:44366/api/PhotoAlbum](https://localhost:44366/api/PhotoAlbum) 
 
-### Returns combie Photo and Alubm data by User
+### Returns combine Photo and Alubm data by User
 
 - [https://localhost:44366/api/PhotoAlbum/user/1](https://localhost:44366/api/PhotoAlbum/user/1) 
 
-#### Return Data Formate:
+### Return Data Format:
 
 **PhotoAlbum:**
 ```
