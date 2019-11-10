@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunPathPhotoServer", "RunPathPhotoServer\RunPathPhotoServer.csproj", "{CFD46023-A406-4890-9CF0-59EDC312CAB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{D8249C01-2C94-404D-9CCF-A5EAF02F2C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunPathPhotoServer.Test", "RunPathPhotoServer.Test\RunPathPhotoServer.Test.csproj", "{1F0238FE-0377-4E6A-B2C9-5ED073DB902F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD46023-A406-4890-9CF0-59EDC312CAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD46023-A406-4890-9CF0-59EDC312CAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD46023-A406-4890-9CF0-59EDC312CAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD46023-A406-4890-9CF0-59EDC312CAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0238FE-0377-4E6A-B2C9-5ED073DB902F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0238FE-0377-4E6A-B2C9-5ED073DB902F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0238FE-0377-4E6A-B2C9-5ED073DB902F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0238FE-0377-4E6A-B2C9-5ED073DB902F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F0238FE-0377-4E6A-B2C9-5ED073DB902F} = {D8249C01-2C94-404D-9CCF-A5EAF02F2C1D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB1D6EF-53D2-40CC-9C57-37BC3B60E122}
+	EndGlobalSection
+EndGlobal
